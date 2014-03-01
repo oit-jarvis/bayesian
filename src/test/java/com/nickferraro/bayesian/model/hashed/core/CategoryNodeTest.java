@@ -12,7 +12,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class CategoryNodeTest {
-	private static final String testWord = "test";
+	private static final String testWord = "test1";
 	private CategoryNode<Integer> testNode;
 	
 	@Before
